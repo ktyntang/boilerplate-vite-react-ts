@@ -6,7 +6,7 @@
 	"scripts": {
 		"dev": "vite",
 		"build": "tsc -b && vite build",
-		"test": "echo \"Init: no tests written yet.\"",
+		"test": "echo \"No tests written yet.\"",
 		"lint": "eslint .",
 		"lint:fix": "eslint --fix",
 		"format": "prettier --config .prettierrc --write .",
@@ -26,6 +26,8 @@
 	"devDependencies": {
 		"@commitlint/cli": "^19.7.1",
 		"@commitlint/config-conventional": "^19.7.1",
+		"@commitlint/format": "^19.5.0",
+		"@commitlint/types": "^19.5.0",
 		"@eslint/js": "^9.19.0",
 		"@types/react": "^19.0.8",
 		"@types/react-dom": "^19.0.3",

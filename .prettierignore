@@ -3,3 +3,4 @@ dist
 coverage
 .eslintcache
 *.config.js
+*.config.ts
