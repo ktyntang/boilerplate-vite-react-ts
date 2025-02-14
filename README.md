@@ -6,6 +6,7 @@ Boilerplate for a React + TypeScript app. This project is a starting point for b
 
 ## 🚀 Features
 
+- 💨 Styling with Tailwind CSS for rapid UI development.
 - 🔑 Code Quality Assurance: Husky and lint-staged for consistent quality.
 - ✅ Unified Code Style: ESLint and Prettier for a consistent coding standard.
 
